@@ -1,2 +1,2 @@
-# PyAnalytics
-Analyzing NFL/NBA stats using Python 
+# PyExercises
+A list of practical application of python in everyday life 
